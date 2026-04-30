@@ -387,18 +387,13 @@ The project demonstrates how embedded computing platforms can support useful AI 
 ## Contributors
 
 * Chris Langfitt
-
-Project advisors and contributors can be added here.
+* Dilen Minstry
 
 ---
 
 ## License
 
-Add a license before publicly releasing the repository. Recommended options include:
-
-* MIT License for open-source software
-* Creative Commons license for documentation
-* A custom academic-use license if the repository includes school project materials
+Public Commons
 
 ---
 
